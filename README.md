@@ -1,0 +1,3 @@
+# Fraudlent_Job_Posting-
+Fraudlent Job Posting Prediction Using Machine learning
+The proliferation of online job platforms has revolutionized the way individuals seek employment opportunities. However, this convenience has also introduced a new avenue for fraudulent activities, particularly in the form of fraudulent job postings. These postings aim to deceive job seekers by offering enticing positions that either do not exist or misrepresent the nature of the job. This paper explores the application of machine learning techniques to detect fraudulent job postings and mitigate their impact on both job seekers and the overall recruitment ecosystem.
